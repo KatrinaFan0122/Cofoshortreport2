@@ -13,7 +13,7 @@ export default function App() {
     sections: [
       {
         label: "核心贡献 / CONTRIBUTION",
-        content: "云村「3%柔情+1.5%诗意」由你贡献",
+        content: "[Lifestyle] + [Super Solo] + [Skill] + [Optimizer]",
       },
       {
         label: "商业模式 / BUSINESS MODEL",

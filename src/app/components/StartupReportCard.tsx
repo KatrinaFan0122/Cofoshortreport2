@@ -123,7 +123,6 @@ export function StartupReportCard({
             <div className="mb-6">
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-gray-400 text-sm uppercase">NickName</span>
-                <span className="text-gray-800 text-base">李小明</span>
               </div>
             </div>
 
